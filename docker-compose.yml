@@ -1,0 +1,8 @@
+services:
+  kk-travel-guide:
+    build: .
+    image: kk-travel-guide
+    container_name: kk-travel-guide
+    ports:
+      - "8080:80"
+    restart: unless-stopped
