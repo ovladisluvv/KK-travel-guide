@@ -1,0 +1,167 @@
+.spisok1 {
+    color: #0000ff;
+    margin-left: 25%;
+    align-self: center;
+}
+.spisok2 {
+    color: #0000ff;
+    margin-left: 28%;
+    align-self: center;
+}
+.spisok3 {
+    color: #0000ff;
+    margin-left: 20%;
+    align-self: center;
+}
+.spisok4 {
+    color: #0000ff;
+    margin-left: 38%;
+    align-self: center;
+    font-size: x-large;
+}
+.png_k {
+    margin-top: -20px;
+}
+.f_color {
+    color: #061F70;
+}
+.up_png {
+    margin-left: 38px;
+    margin-bottom: -25px;
+}
+.margin_S {
+    margin-left:50px;
+}
+.margin_place {
+    margin-top: 20px;
+    margin-left: 15px;
+}
+.text {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.margin_b {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+td:hover {
+    background: #e8edff;
+  }
+.table_h {
+    align-self: center;
+    width: 100%;
+    color: #061F70;
+}
+.table_s {
+    margin-left: 10%;
+    border-radius: 30px;
+    border-color: #48DD00;
+    background-color:rgba(211, 249, 167, 67%);
+    width: 80%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+th {
+    border-radius: 20px;
+}
+td {
+    height: 55px;
+    border-radius: 20px;
+    padding: 0;
+    margin-left: 15px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+tr {
+    border: 0px;
+    border-color: #48DD00;
+}
+.background {
+    background-image: url(https://phonoteka.org/uploads/posts/2022-02/1644274491_25-phonoteka-org-p-fon-ekologiya-vertikalnii-30.jpg);
+}
+.m_banner {
+    position: relative;
+    height: 85vh;
+    width: 100%;
+    display: flex;
+    background: #000;
+}
+#toTop {
+	display:none;
+	text-decoration:none;
+	position:fixed;
+	bottom:10px;
+	right:10px;
+	overflow:hidden;
+	width:65px;
+	height:65px;
+	border:none;
+	text-indent:100%;
+	background:url(iconka-up.png) no-repeat left top;
+}
+#toTopHover {
+	background:url(iconka-up.png) no-repeat left 0px;
+	width:65px;
+	height:65px;
+	display:block;
+	overflow:hidden;
+	float:left;
+	opacity: 0;
+	-moz-opacity: 0;
+	filter:alpha(opacity=0);
+}
+#toTop:active, #toTop:focus {
+	outline:none;
+}
+.abzac {
+    margin-left: 10%;
+    text-decoration-line: underline;
+    color: #0000ff;
+}
+.text_inside {
+    margin-left: 2%;
+    margin-right: 2%;
+    line-height: 1.5;
+}
+.to-be-changed {
+    display: none;
+}
+.to-be-changed:target {
+    display: block;
+}
+.photo {
+    width: 40%;
+    border-radius: 20px;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    margin-left: 5%;
+}
+.map {
+    width:35%;
+    height: 300px;
+    border-radius: 20px;
+    margin-left: 5%;
+}
+.map2 {
+    width:89%;
+    height: 500px;
+    border-radius: 20px;
+    margin-left: 5%;
+}
+.mrs {
+    margin-left: 3%;
+    margin-right: 3%;
+    line-height: 1.5;
+}
+.info {
+    line-height: 1.5;
+    font-size: large;
+    margin-left: 2%;
+    margin-right: 1%;
+    text-indent: 3%;
+}
+.box {
+    background-color:rgba(211, 249, 167, 34%);
+    width: 99%;
+    margin-right: 1%;
+    border-radius: 20px;
+}
